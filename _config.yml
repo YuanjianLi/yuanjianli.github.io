@@ -83,12 +83,12 @@ author:
   name             : "Yuanjian Li (李元健)"
   avatar           : "profile.png"
   bio              : "PhD, MEng and BEng in Wireless Communications"
-  location         : "London, the UK"
+  location         : 
   employer         : "King's College London"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=x0KLyqgAAAAJ&hl=en"
+  googlescholar    : "citations?user=x0KLyqgAAAAJ&hl=en"
   email            : "yuanjian.li@kcl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Yuanjian-Li"
+  researchgate     : "profile/Yuanjian-Li"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/YuanjianLi"
+  github           : "YuanjianLi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yuanjianli"
+  linkedin         : "yuanjianli"
   orcid            : 
   pinterest        :
   soundcloud       :
