@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Yuanjian Li (李元健)"
-  avatar           : "profile.png"
+  avatar           : "yuanjian.jpg"
   bio              : "PhD, MEng and BEng in Wireless Communications"
   location         : 
   employer         : "King's College London"
   pubmed           : 
-  googlescholar    : "citations?user=x0KLyqgAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ"
   email            : "yuanjian.li@kcl.ac.uk"
   researchgate     : "profile/Yuanjian-Li"
   uri              :
