@@ -6,11 +6,11 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
     url: /cv/        
 
   - title: "MEng Thesis"
-    url: /MEng_Thesis/      
+    url: /MEng_Thesis/     
+
+  - title: "Publications"
+    url: /publications/ 
