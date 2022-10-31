@@ -5,11 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+<ul>
+<li>Please note that I am the first-order author for all publications illustrated in this page. A more comprehensive track record covering all my authored papers can be found on my <a href="https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ">Google Scholar page.</a>
+<!--[Google Scholar page](https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ).-->
+</li>
 
-A comprehensive track record can be found on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ).
-
-The following listed papers had been published on or submitted to top-tier IEEE Transactions or flag-ship IEEE conference series amid my PhD-pursuing phase, for all of which I play the role as the first-order author. 
-
+<li>The following listed papers within time horizon 2020-2022 had been published on or submitted to top-tier IEEE Transactions or flag-ship IEEE conference series amid my PhD-pursuing phase. Besides, those published during 2017-2018 come from research project of my MEng degree.
+</li> 
+</ul>
+<hr>
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.publications reversed %}
