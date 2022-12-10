@@ -1,7 +1,7 @@
 ---
 title: "Radio Resource Management for Cellular-Connected UAV: A Learning Approach"
 collection: publications
-#permalink: /publication/2022-RRM-TCom_MajorRevision
+permalink: /publication/2022-RRM-TCom_MajorRevision
 date: 2022-10-04
 venue: 'IEEE Transactions on Communications (TCom)'
 paperurl: '/files/pdf/research/2022-RRM-UAV-DRL_MR_TC.pdf'
