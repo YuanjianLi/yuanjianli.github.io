@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-A copy of my PhD thesis can be found below.
 
 <iframe src="/files/pdf/MEngPhD_Thesis/MyPhDThesis.pdf" width="100%" height="1200" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
