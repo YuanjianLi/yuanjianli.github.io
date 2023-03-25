@@ -1,30 +1,24 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "Application Record for Fellowships"
+permalink: /Fellowships/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+Independent Research Fellowships that I have applied for after my PhD are listed as follows. 
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+<h2>UK-Based Early Career Fellowships</h2>
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+1. Leverhulme Early Career Research Fellowship (Supported by four IEEE Fellows, including two Fellows of the Royal Academy of Engineering) - pending - 2023.
+
+2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows) - pending - 2023.
+
+<h2>US-Based Presidential Postdoctoral Fellowship</h2>
+
+1. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by one IEEE Fellow) - pending - Cycle 1, 2023.
+
+2. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by one IEEE Fellow) - unsuccessful (all reviewers are positively supportive, but not selected by sponsors in the final meeting) - Cycle 3, 2022.
+
+
+
+
