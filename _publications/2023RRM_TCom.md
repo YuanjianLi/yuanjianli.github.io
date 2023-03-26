@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-RRM-TCom
 date: 2023-03-22
 venue: 'IEEE Transactions on Communications (TCom)'
-paperurl: '/files/pdf/research/2023-RRM-UAV-DRL-TCom.pdf'
+paperurl: '/files/pdf/research/2023-RRM-TCom.pdf'
 link: 'https://www.researchgate.net/publication/355043974_Radio_Resource_Management_for_Cellular-Connected_UAV_A_Learning_Approach'
 citation: '<strong>Published on IEEE Transactions on Communications (TCom), Mar 2023.</strong>
 <br>
