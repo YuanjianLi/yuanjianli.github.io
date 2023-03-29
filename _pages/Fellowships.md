@@ -11,7 +11,7 @@ Independent Research Fellowships that I have applied for after my PhD are listed
 
 1. Leverhulme Early Career Research Fellowship (Supported by four IEEE Fellows, including two Fellows of the Royal Academy of Engineering) - pending - 2023.
 
-2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows) - pending - 2023.
+2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows) - unsuccessful - 2023.
 
 <h2>US-Based Presidential Postdoctoral Fellowship</h2>
 
