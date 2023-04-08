@@ -54,12 +54,14 @@ author_profile: true
 4. Research Associate in digital signal processing for intelligent systems and communications (SPCOM) at **Heriot-Watt** $\rightarrow$ **successful**.
 5. Postdoctoral Associate in Wireless Communications at **Virgina Tech** $\rightarrow$ **successful**.
 6. Postdoctoral Research Associate at **Warwick** $\rightarrow$ **successful**.
-7. PDRA at **Fudan** **University** $\rightarrow$ **successful**.
+7. PDRA at **Fudan** **University** $\rightarrow$ **successful**. Was applying for a Lecturer position, but ended up being advised to take their most prestigious postdoc position (national level) first. 
 8. PDRA at Nanyang Technological University (NTU) $\rightarrow$ **successful**.
 9. PDRA at University of Macau $\rightarrow$ **successful**.
+10. PDRA in Precoding and Distributed Baseband Signal Compression at KCL $\rightarrow$ **successful** but this research project was suspended due to problem of bureaucracy. PI and I was not able to do anything but stop proceeding. So sad, as this was the one I really fancied (very good timing when I was getting my PhD, promising project, fancy institute and very strong PI with an active research team).
 
 
-
+# Industrial Job Seeking Record 
+## I also applied for several industrial jobs, received several offers but ended up deciding to devote myself to academia.
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
