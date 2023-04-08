@@ -10,9 +10,9 @@ author_profile: true
 ### Quick Facts
 
 * Take the first offer you can get, no matter it is "good" enough or not!
-* I have applied for King's College London for several times with various openings and different PIs, surprisingly, King's is **not** an easy option at all as anticipated, though I have spent my PhD there. The lesson I learnt is that always **listen** to a female, no matter what.
+* I have applied for King's College London for several times with various openings and different PIs, surprisingly, King's is **not** an easy option at all as anticipated, though I have spent my PhD there. The lesson I learnt is that always **listen** to a female's advice, especially, when it sounds like an oral offer. Even a slight hesitation may lead to a serious problem that may haunt you for a long while.
 * UK-based postdocs are **not** well paid, even not fairly paid. My advice is to leave the UK asap, for anyone who is now or will be seeking for a postdoc position.
-* Keep applying and stay chilled. Do not be disturbed by rejections, as lots of factors matter. In fact, your papers and your qualifications can only support you, at most, to be shortlisted. A final appointment requires lots of other more important things, e.g., connections and luck.
+* Keep applying and stay chilled. Do not be discouraged by frequent rejections, as lots of factors matter. In fact, your papers and your qualifications can only support you, at most, to be shortlisted. A final appointment requires lots of other more important things, e.g., connections and luck.
 * Somethings look easy may not be that kind of easy, while somethings look tough may be achievable. Just act and never be questioning yourself.
 * Never constrain yourself within any comfort zones, be open-minded!
 * A shift in position makes a person live better, but when it comes to a tree, it might suffer from quite an opposite result. Be courageous to embrace changes, if one place has limited space to live with.

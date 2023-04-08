@@ -10,7 +10,7 @@ author_profile: true
 <!--[Google Scholar page](https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ).-->
 </li>
 
-<li>The following listed papers within time horizon 2020-2023 had been published on top-tier IEEE Transactions or flag-ship IEEE conference series amid my PhD-pursuing phase. Besides, those published during 2017-2018 come from research project of my MEng degree.
+<li>Quick facts: I, as the first-order author, published 3 Transactions (2 IEEE TWC, 1 IEEE TCom), 1 Letter (IEEE WCL) and 2 Conferences (2 IEEE ICC) amid my PhD. I thus have gained extensive knowledge of Python (Pytorch, tensorflwo, etc.) and Matlab.  
 </li> 
 </ul>
 <hr>
