@@ -40,7 +40,9 @@ author_profile: true
 2. Research Associate in Intelligent Transmission and Processing at **Imperial** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 3. Postdoctoral Research Fellow at **Australian National University** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 4. PDRA at CEL **KIT** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
-5. Postdoctoral Associate in Wireless Communications at **Iowa State University** $\rightarrow$ **shortlisted but did not attend the interview**.
+5. Postdoctoral Associate in Wireless Communications at **Iowa State University** $\rightarrow$ **shortlisted for the interview but did not attend the interview**.
+6. PDRA at **University of Colorado Denver** $\rightarrow$ **shortlisted for the interview but did not attend the interview**.
+7. Research Fellow in Signal Processing for Wireless Communications at **University of Surrey** $\rightarrow$ **shortlisted for the interview but did not attend the interview**.
 6. Postdoctoral Associate in **Princeton** Advanced Wireless Systems (PAWS) $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 7. Postdoctoral Research Fellow for the YO-RAN project at **York** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 8. PDRA at **QMUL** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
