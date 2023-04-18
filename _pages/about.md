@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<h2 align="center"><img src="/files/pdf/entanglement-quantum-entanglement.gif">
-</h2>
-
 I earned my PhD degree in Telecommunications from King's College London (KCL), doing interdisciplinary research on **wireless communications**, **deep reinforcement learning** and **quantum mechanics**, which commenced on Oct. 2019. For gaining a clearer intuition, the track record amid my PhD can be found in the [Publication page](publications). The title of my PhD thesis is [*On UAVs for Wireless Communications: Resource Management, Performance Analysis and Trajectory Optimization*](PhD_Thesis), while that of my MEng is [*On Enhancing Secrecy Performance for Wireless Communications via Artificial Noise*](MEng_Thesis). Note that the aforementioned performance optimisation and analysis for wireless transmission networks are conducted on **Python** and **MATLAB**, with the help of cutting-edge quantum-aided deep reinforcement learning and conventional mathematical techniques, respectively. 
 My current research interests include 6G networks, cloud radio access networks (C-RANs), distributed ultra-large-scale MIMO, fronthaul quantization, radio resource management, IoT, UAV, deep reinforcement learning and quantum AI. 
 
@@ -20,3 +17,4 @@ Apart from academia, I am an active *Kaggler*, with hands-on experience of proje
 
 For knowing me more, please refer to the [CV file](\cv).
 
+<a href="https://info.flagcounter.com/w21j"><img src="https://s01.flagcounter.com/map/w21j/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
