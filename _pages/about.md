@@ -20,4 +20,3 @@ Apart from academia, I am an active *Kaggler*, with hands-on experience of proje
 
 For knowing me more, please refer to the [CV file](\cv).
 
-<a href="https://www.worldflagcounter.com/details/iuj"><img src="https://www.worldflagcounter.com/iuj/" alt="Flag Counter"></a>
