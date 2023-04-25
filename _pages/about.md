@@ -17,4 +17,3 @@ Apart from academia, I am an active *Kaggler*, with hands-on experience of proje
 
 For knowing me more, please refer to the [CV file](\cv).
 
-<a href="https://info.flagcounter.com/w21j"><img src="https://s01.flagcounter.com/map/w21j/size_l/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
