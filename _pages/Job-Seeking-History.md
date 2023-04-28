@@ -8,7 +8,7 @@ author_profile: true
 # Academic Job Seeking Record of Half a Year
 ## Around my PhD graduation, I started seeking academic jobs worldwide, the following is the exhaustive list. Please note that from June-Oct, there were only a few opportunities on the market, especially from within the UK, which I always reckon is so weird and strange. 
 
-> I would like to express my sincere gratitude to all the PIs that have spent their efforts in considering my application! These role models have kindly given me lots of invaluable and remarkable advice, which eye-opened me and inspired me in all good ways.
+> I would like to express my sincere gratitude to all the PIs who have spent their efforts in considering my application! These role models have kindly given me lots of invaluable and remarkable advice, which eye-opened me and inspired me in all good ways.
 
 ---
 ### Quick Facts
