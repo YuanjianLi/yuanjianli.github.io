@@ -7,7 +7,7 @@ author_profile: true
 
 **Independent Research Fellowships** that I have applied for after my PhD are listed as follows. 
 
-> I would like to express my sincere gratitude to all the PIs who have written *research proposals*  with me to apply for these highly prestigious fellowships, which lifted my capacity of doing independent but pioneering research. I am also in debt to all my academic referees whose supportive references have significantly helped enhance the bet of my applications.
+> I would like to express my sincere gratitude to all the PIs who encouraged me and have written *research proposals* with me to apply for these highly prestigious independent early career fellowships, which lifted my capacity of doing independent yet pioneering research. I am also in debt to all my academic referees whose supportive references have significantly helped enhance the bet of my applications.
 
 ---
 
@@ -21,10 +21,11 @@ author_profile: true
 
 <h2>US-Based Presidential Postdoctoral Fellowship</h2>
 
-1. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by one IEEE Fellow) - **pending** - Cycle 1, 2023.
+1. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by IEEE Fellow) - **unsuccessful** - Cycle 1, 2023.
 
-2. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by one IEEE Fellow) - **unsuccessful** (all reviewers are positively supportive, but not selected by sponsors in the final meeting) - Cycle 3, 2022.
+2. Virgina Tech's Presidential Postdoctoral Fellowship (Supported by IEEE Fellow) - **unsuccessful** - Cycle 3, 2022.
 
+<!-- (all reviewers are positively supportive, but not selected by sponsors in the final meeting)-->
 
 
 
