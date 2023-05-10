@@ -25,4 +25,6 @@ The best way to know me is to check [the latest CV file](\cv).
 
 I have shared my *Job Application Record*, aiming to shed light on any fresh PhD who is now or will be seeking a job in academia. There are typically two branches for getting a Postdoc position, i.e., [Independent Early Career Fellowships](\Fellowships) and [conventional Postdoc openings working for a PI](\Job-Seeking-History). Please note that the former is usually very challenging, as it is genuinely established for PhDs who have been postdoc but within three years of employment.
 
+<h2 align="center"><img src="/files/pdf/entanglement-quantum-entanglement.gif">
+</h2>
 

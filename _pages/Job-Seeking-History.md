@@ -54,8 +54,7 @@ author_profile: true
 6. Postdoctoral Associate in **Princeton** Advanced Wireless Systems (PAWS) $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 7. Postdoctoral Research Fellow for the YO-RAN project at **York** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 8. PDRA at **QMUL** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
-9. Postdoctoral Research Associate in Machine Learning for Wireless Networks at **Loughborough** University $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
-10. Research Associate in AI in communication Networks, and 6G Network Design at **KCL** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
+9. Research Associate in AI in communication Networks, and 6G Network Design at **KCL** $\rightarrow$ **unsuccessful (shortlisted for the interview)**.
 
 ---
 
@@ -70,6 +69,7 @@ author_profile: true
 8. Research Fellow at Nanyang Technological University (NTU) $\rightarrow$ **successful**.
 9. PDRA at University of Macau $\rightarrow$ **successful**.
 10. PDRA in Precoding and Distributed Baseband Signal Compression at KCL $\rightarrow$ **successful** but this research project was suspended due to problem of bureaucracy. PI and I was not able to do anything but stop proceeding. So sad, as this was the one I really fancied (very good timing when I was getting my PhD, promising project, fancy institute and very strong PI with an active research team).
+11. Postdoctoral Research Associate in Machine Learning for Wireless Networks at **Loughborough** University $\rightarrow$ **kinda successful (shortlisted for the interview) but the hiring process was delayed for months, had to take other opportunities**. (The PIs are very strong and nice, very sad not being able to join when this delayed position was able to be taken)
 
 ---
 
