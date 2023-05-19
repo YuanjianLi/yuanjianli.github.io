@@ -8,7 +8,8 @@ author_profile: true
 **Independent Research Fellowships** that I have applied for after my PhD are listed as follows. 
 
 > I would like to express my sincere gratitude to all the PIs who encouraged me and have written *research proposals* with me to apply for these highly prestigious independent early career fellowships, which lifted my capacity of doing independent yet pioneering research. I am also in debt to all my academic referees whose supportive references have significantly helped enhance the bet of my applications.
-> Do not be discouraged by the following rejections, if you wanna apply for these fellowships, just do it! The core thing is to find a very strong PI to support you, and then wish yourself a good luck.
+
+Do not be discouraged by the following rejections, if you wanna apply for these fellowships, just do it! The core thing is to find a very strong PI who is willing to support you, and then wish yourself a good luck.
 
 ---
 
