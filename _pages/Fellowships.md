@@ -8,12 +8,13 @@ author_profile: true
 **Independent Research Fellowships** that I have applied for after my PhD are listed as follows. 
 
 > I would like to express my sincere gratitude to all the PIs who encouraged me and have written *research proposals* with me to apply for these highly prestigious independent early career fellowships, which lifted my capacity of doing independent yet pioneering research. I am also in debt to all my academic referees whose supportive references have significantly helped enhance the bet of my applications.
+> Do not be discouraged by the following rejections, if you wanna apply for these fellowships, just do it! The core thing is to find a very strong PI to support you, and then wish yourself a good luck.
 
 ---
 
 <h2>UK-Based Early Career Fellowships</h2>
 
-1. Leverhulme Early Career Research Fellowship (Supported by four IEEE Fellows, including two Fellows of the Royal Academy of Engineering) - **pending** - 2023. [[Proposal](/files/pdf/Fellowships/LeverhulmeTrust.pdf)]
+1. Leverhulme Early Career Research Fellowship (Supported by four IEEE Fellows, including two Fellows of the Royal Academy of Engineering) - **unsuccessful** - 2023. $\rightarrow$ *The panel did not provide  a decision letter for those unselected.* [[Proposal](/files/pdf/Fellowships/LeverhulmeTrust.pdf)]
 
 2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows, including one Fellow of the Royal Academy of Engineering) - **unsuccessful** - 2023. $\rightarrow$ *The panel did not provide  a decision letter for those unselected.* [[Proposal](/files/pdf/Fellowships/1851.pdf)]
 
