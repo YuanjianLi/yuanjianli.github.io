@@ -18,8 +18,8 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-#  - title: "Fellowship Applications"
-#    url: /Fellowships/ 
+  - title: "Fellowship Applications"
+    url: /Fellowships/ 
 
 #  - title: "Job Seeking History"
 #    url: /Job-Seeking-History/ 
