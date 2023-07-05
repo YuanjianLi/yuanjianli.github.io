@@ -6,8 +6,8 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
-  - title: "CV"
-    url: /cv/        
+#  - title: "CV"
+#    url: /cv/        
 
   - title: "MEng Thesis"
     url: /MEng_Thesis/     

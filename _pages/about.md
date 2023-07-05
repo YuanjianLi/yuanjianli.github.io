@@ -21,6 +21,6 @@ I was a *session chair* for the flag-ship conference IEEE International Conferen
 Apart from academia, I am an active *Kaggler*, with hands-on experience of projects requiring vast and solid knowledge of data science and machine learning. Besides, I have been playing a part-time role of *Special Education Consultant* since 2019 for United Kingdom Education Centre (UKEC), offering analysis, insights, advice and career plans to clients for helping them apply for PhD positions and financial fundings. --> 
 
 
-The best way to know me is to check [the latest CV file](\cv).
+<!--The best way to know me is to check [the latest CV file](\cv). -->
 
 
