@@ -12,8 +12,7 @@ redirect_from:
 ### $\frac{1}{\sqrt{2}}|\rm{Wireless\hspace{.1cm}Communications}\hspace{-0.05cm}> + \frac{1}{2}|\rm{Machine\hspace{.1cm}Learnig}\hspace{-0.05cm}> + \frac{1}{2}|\rm{Quantum\hspace{.1cm}Computing}\hspace{-0.05cm}>$
 ---
 <body>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&cl=ffffff&w=a"></script>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </body>
 <!--I earned my PhD degree in Telecommunications from King's College London (KCL), doing interdisciplinary research on **wireless communications**, **deep reinforcement learning** and **quantum mechanics**, which commenced on Oct. 2019. For gaining a clearer intuition, the track record amid my PhD can be found in the [Publication page](publications). The title of my PhD thesis is [*On UAVs for Wireless Communications: Resource Management, Performance Analysis and Trajectory Optimization*](PhD_Thesis), while that of my MEng is [*On Enhancing Secrecy Performance for Wireless Communications via Artificial Noise*](MEng_Thesis). Note that the aforementioned performance optimisation and analysis for wireless transmission networks are conducted on **Python** and **MATLAB**, with the help of cutting-edge quantum-aided deep reinforcement learning and conventional mathematical techniques, respectively. -->
 
