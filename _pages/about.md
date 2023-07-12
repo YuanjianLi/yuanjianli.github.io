@@ -24,3 +24,4 @@ Apart from academia, I am an active *Kaggler*, with hands-on experience of proje
 <!--The best way to know me is to check [the latest CV file](\cv). -->
 
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I"></script>
