@@ -85,13 +85,13 @@ author:
   avatar           : "IMG_1704.JPG"
   bio              : "Research Fellow @ Nanyang Technological University (NTU), Singapore; 
 PhD in Wireless Communications and Machine Learning from King's College London (KCL), the UK."
-  location         : 
+  location         : "Singapore"
   employer         : "Nanyang Technological University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ"
-  email            : "yuanjian.li@kcl.ac.uk"
+  email            : "yuanjian.li@ntu.edu.sg"
   researchgate     : "https://www.researchgate.net/profile/Yuanjian-Li"
-  uri              : "https://kclpure.kcl.ac.uk/portal/en/persons/yuanjian-li(a80de11a-17b4-4bfb-bcc9-11eb774ad904).html"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
@@ -117,6 +117,8 @@ PhD in Wireless Communications and Machine Learning from King's College London (
   xing             :
   youtube          :
   wikipedia        :
+  kaggle           : "https://www.kaggle.com/yuanjianli"
+  kclresearch      : "https://kclpure.kcl.ac.uk/portal/en/persons/yuanjian-li(a80de11a-17b4-4bfb-bcc9-11eb774ad904).html"
 
 
 # Reading Files

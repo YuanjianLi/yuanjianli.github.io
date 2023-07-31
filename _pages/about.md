@@ -11,6 +11,7 @@ redirect_from:
 ---
 ### $\frac{1}{\sqrt{2}}|\rm{Wireless\hspace{.1cm}Communications}\hspace{-0.05cm}> + \frac{1}{2}|\rm{Machine\hspace{.1cm}Learnig}\hspace{-0.05cm}> + \frac{1}{2}|\rm{Quantum\hspace{.1cm}Computing}\hspace{-0.05cm}>$
 ---
+# My current research focuses on AI for Wireless, e.g., ML-aided channel estimation and efficient receiver design for Terahertz transmissions. Besides, I also am pushing the integration of Quantum ML and Wireless.
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </body>

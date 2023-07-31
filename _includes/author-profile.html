@@ -121,6 +121,12 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>Impactstory</a></li>
       {% endif %}
+      {% if author.kaggle %}
+        <li><a href="{{ author.kaggle }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;"></i>Kaggle Profile</a></li>
+      {% endif %}
+      {% if author.kclresearch %}
+        <li><a href="{{ author.kclresearch }}"><i class="fas fa-fw fa-graduation-cap" aria-hidden="true" style="padding-right: 1.5em;"></i>KCL Profile</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true" style="padding-right: 1.5em;"></i>Wikipedia</a></li>
 {% endif %}
