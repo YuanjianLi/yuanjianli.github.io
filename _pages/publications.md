@@ -10,7 +10,7 @@ author_profile: true
 <!--[Google Scholar page](https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ).-->
 </li>
 
-<li>Quick facts: I, as the first-order author, published 3 Transactions (2 IEEE TWC, 1 IEEE TCom), 1 Letter (IEEE WCL) and 2 Conferences (2 IEEE ICC) during my PhD. I thus have gained extensive knowledge of Python (Torch, TensorFlow, etc.) and Matlab.  
+<li>Quick facts: I, as the first-order author, published 3 Transactions (2 IEEE TWC, 1 IEEE TCom), 1 Letter (IEEE WCL) and 4 Conferences (2 IEEE ICC, 1 IEEE PIMRC and 1 IEEE GLOBECOM) during my PhD. I thus have gained extensive knowledge of Python (Torch, TensorFlow, etc.) and Matlab.  
 </li> 
 </ul>
 <hr>
