@@ -13,7 +13,7 @@ redirect_from:
 ---
 # My current research focuses on AI for Wireless, e.g., ML-aided channel estimation and efficient receiver design for Terahertz transmissions. Besides, I also am pushing the integration of Quantum ML and Wireless.
 <body>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=tt&d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </body>
 <!--I earned my PhD degree in Telecommunications from King's College London (KCL), doing interdisciplinary research on **wireless communications**, **deep reinforcement learning** and **quantum mechanics**, which commenced on Oct. 2019. For gaining a clearer intuition, the track record amid my PhD can be found in the [Publication page](publications). The title of my PhD thesis is [*On UAVs for Wireless Communications: Resource Management, Performance Analysis and Trajectory Optimization*](PhD_Thesis), while that of my MEng is [*On Enhancing Secrecy Performance for Wireless Communications via Artificial Noise*](MEng_Thesis). Note that the aforementioned performance optimisation and analysis for wireless transmission networks are conducted on **Python** and **MATLAB**, with the help of cutting-edge quantum-aided deep reinforcement learning and conventional mathematical techniques, respectively. -->
 
