@@ -6,8 +6,8 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
-#  - title: "CV/简历"
-#    url: /cv/        
+  - title: "CV/简历"
+    url: /cv/        
 
   - title: "MEng Thesis/硕士毕业论文"
     url: /MEng_Thesis/     
@@ -15,8 +15,8 @@ main:
   - title: "PhD Thesis/博士毕业论文"
     url: /PhD_Thesis/  
 
-  - title: "Publications/文章"
-    url: /publications/ 
+#  - title: "Publications/文章"
+#    url: /publications/ 
 
 #  - title: "Fellowship Applications/项目申请"
 #    url: /Fellowships/ 
