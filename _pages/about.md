@@ -7,9 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research focuses on **AI for Wireless**, e.g., ML-aided channel estimation and efficient receiver design for Terahertz (THz) transmissions in 6G wireless systems. 
+My current research focuses on **AI for Next-Generation Wireless Systems**. 
 
-Besides, I also am pushing the integration of Quantum ML (QML) and Wireless.
+Two zoomed-in examples are
+
+- Deep Reinforcement Learning (DRL)-enabled joint computation and communication resource coordination for many-UAV many-user multi-access edge computing (MEC).
+- Machine learning (ML)-aided channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions.
+
+Broadly speaking, my research interests include
+
+1. THz UM-MIMO Transmissions
+1. Near-Field Communications
+1. DRL-Driven Joint Communication and Computation Resource Management 
+1. Space-Air-Ground Integrated Networks
+1. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
+
+The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
 ![LondonStreet](/files/LondonOxfordRegentBond.jpg)
 ![LondonStreet](/files/LondonLSE.jpg)
