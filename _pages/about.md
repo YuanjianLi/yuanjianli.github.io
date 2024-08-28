@@ -7,20 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My current research focuses on **AI for Next-Generation Wireless Systems**. 
+My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. 
 
 Two zoomed-in examples are
 
-- Deep Reinforcement Learning (DRL)-enabled joint computation and communication resource coordination for many-UAV many-user multi-access edge computing (MEC).
-- Machine learning (ML)-aided channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions.
+- Deep Reinforcement Learning (DRL)-enabled joint computation and communication resource coordination for many-UAV many-user multi-access edge computing (MEC) in the Internet of Things (IoT) scenarios.
+- Machine learning (ML)-aided sparsity-aware channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions, where near-field communication characteristics are highlighted.
 
-Broadly speaking, my research interests include
+Broadly speaking, my research expertise and interests include
 
 1. THz UM-MIMO Transmissions
 1. Near-Field Communications
 1. DRL-Driven Joint Communication and Computation Resource Management 
 1. Space-Air-Ground Integrated Networks
 1. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
+1. Secure and Covert Communications
+
+> I have authored over *20 papers* in the **interdisciplinary** research direction of wireless communications and signal processing, machine learning, and quantum computing, in top-tier journals and prestigious conferences including IEEE TWC, IEEE TCOM, IEEE WCL, IEEE GLOBECOM, and IEEE ICC. I am also an active **reviewer** for these journals, conferences and beyond. I have authored **9 CN patents** in the fields of wireless communications and signal processing. I served as a **session chair** for IEEE ICC 2022: Selected Areas in Communications: Machine Learning for Communications Track - Networks.
 
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
