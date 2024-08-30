@@ -29,8 +29,10 @@ The best way to know me is to check [the latest CV file](\cv). Besides, copies o
 
 ![LondonStreet](/files/LondonOxfordRegentBond.jpg)
 ![LondonStreet](/files/LondonLSE.jpg)
+![LondonStreet](/files/LondonPhoneBooth.jpeg)
+![LondonStreet](/files/LondonNearWaterlooStation.jpeg)
 ![LondonStreet](/files/LondonKingsDoor.JPG)
-![LondonStreet](/files/LondonWestminsterBigBen.JPG)
+![LondonStreet](/files/LondonWestminsterBigBen1.JPG)
 ![LondonStreet](/files/LondonWinter.jpg)
 ![LondonStreet](/files/SingaporeBukitBatokTownPark.JPG)
 ![LondonStreet](/files/BrightonSevenSister.jpeg)
