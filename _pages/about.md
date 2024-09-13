@@ -27,7 +27,7 @@ Broadly speaking, my research expertise and interests include
 
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
-![LondonStreet](/files/LondonOxfordRegentBond.jpg)
+<!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
 ![LondonStreet](/files/LondonLSE.jpg)
 ![LondonStreet](/files/LondonPhoneBooth.jpeg)
 ![LondonStreet](/files/LondonNearWaterlooStation.jpeg)
@@ -37,7 +37,7 @@ The best way to know me is to check [the latest CV file](\cv). Besides, copies o
 ![LondonStreet](/files/SingaporeBukitBatokTownPark.JPG)
 ![LondonStreet](/files/BrightonSevenSister.jpeg)
 ![LondonStreet](/files/SingaporeMarinaSand.jpeg)
-![LondonStreet](/files/KualaLumpurTwinTower.jpeg)
+![LondonStreet](/files/KualaLumpurTwinTower.jpeg)-->
 
 <body>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=tt&d=dRK5WA3xs-5-uN6UrP7dBz_t1eEwsUv3JKf7Sx02b-I&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
