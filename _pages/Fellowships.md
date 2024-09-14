@@ -17,7 +17,7 @@ Do not be discouraged by the following rejections, if you wanna apply for these 
 
 1. Leverhulme Early Career Research Fellowship (Supported by four IEEE Fellows, including two Fellows of the Royal Academy of Engineering) - **unsuccessful** - 2023. $\rightarrow$ *The panel did not provide  a decision letter for those unselected.* [[Proposal](/files/pdf/Fellowships/LeverhulmeTrust.pdf)]
 
-2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows, including one Fellow of the Royal Academy of Engineering) - **unsuccessful** - 2023. $\rightarrow$ *The panel did not provide  a decision letter for those unselected.* [[Proposal](/files/pdf/Fellowships/1851.pdf)]
+2. Royal Commission for the Exhibition of 1851 Research Fellowship in Science or Engineering (Supported by three IEEE Fellows, including one Fellow of the Royal Academy of Engineering) - **unsuccessful** - 2023. $\rightarrow$ *The panel did not provide a decision letter for those unselected.* [[Proposal](/files/pdf/Fellowships/1851.pdf)]
 
 ---
 
