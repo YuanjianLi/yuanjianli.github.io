@@ -9,7 +9,7 @@ author_profile: true
 - **Venue**: Internet of Things Thrust, Information Hub, HKUST(GZ)
 - **Location**: Guangzhou, China
 - **Date**: 2024-09-06
-- [Official Advertizement](https://calendar.hkust.edu.hk/events/iot-thrust-seminar-next-generation-wireless-networks-communication-and-computation-resource)
+- [Official Advertisement](https://calendar.hkust.edu.hk/events/iot-thrust-seminar-next-generation-wireless-networks-communication-and-computation-resource)
 - [Slides](/files/pdf/Talks/slideTalkHKUSTGZ24Sep06.pdf)
 
 2. ## Mixed-Field Channel Estimation for AoSA-Based THz Systems
