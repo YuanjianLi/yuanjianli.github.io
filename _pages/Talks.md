@@ -45,7 +45,7 @@ author_profile: true
 - [View More](https://ieeexplore.ieee.org/document/9839093)
 - [Slides](/files/pdf/Talks/slideTalkUAVNavigation_ICC22May.pdf)
 
-7. ## Covertness-Aware Trajectory Design for UAV: A Multi-Step TD3-PER Solution
+7. ## Secrecy performance analysis of artificial noise aided precoding in full-duplex relay systems
 - **Venue**: IEEE Global Communications Conference
 - **Location**: Singapore
 - **Date**: 2017-12
