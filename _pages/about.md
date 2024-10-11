@@ -27,6 +27,9 @@ Broadly speaking, my research expertise and interests include
 
 ![poster](/files/pdf/research/poster.jpg)
 
+![](/files/pdf/research/QualificationPI_Page_Page_1.png)
+
+![](/files/pdf/research/QualificationPI_Page_Page_2.png)
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
 <!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
