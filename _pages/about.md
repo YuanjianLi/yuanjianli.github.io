@@ -25,11 +25,14 @@ Broadly speaking, my research expertise and interests include
 
 > I have authored over *20 papers* in the **interdisciplinary** research direction of wireless communications and signal processing, machine learning, and quantum computing, in top-tier journals and prestigious conferences including IEEE TWC, IEEE TCOM, IEEE WCL, IEEE GLOBECOM, and IEEE ICC. I am also an active **reviewer** for these journals, conferences and beyond. I have authored **9 CN patents** in the fields of wireless communications and signal processing. I served as a **session chair** for IEEE ICC 2022: Selected Areas in Communications: Machine Learning for Communications Track - Networks.
 
-![poster](/files/pdf/research/poster.jpg)
+<div class="box">
+  <iframe src="/files/pdf/research/poster.pdf" frameborder="10" scrolling="no" width="100%" height="700" align="centre"> </iframe>
+</div>
 
-![](/files/pdf/research/QualificationPI_Page_Page_1.png)
+<div class="box">
+  <iframe src="/files/pdf/research/QualificationPI.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
+</div>
 
-![](/files/pdf/research/QualificationPI_Page_Page_2.png)
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
 <!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
