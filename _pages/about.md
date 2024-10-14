@@ -33,6 +33,10 @@ Broadly speaking, my research expertise and interests include
   <iframe src="/files/pdf/research/QualificationPI.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
 </div>
 
+<div class="box">
+  <iframe src="/files/pdf/research/QualificationPIChinese.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
+</div>
+
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
 <!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
