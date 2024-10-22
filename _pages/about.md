@@ -7,20 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. 
+My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. My long-term goal is to build an **Ecosystem of AI and Wireless**.
 
 Two zoomed-in examples are
 
 - Deep Reinforcement Learning (DRL)-enabled joint computation and communication resource coordination for many-UAV many-user multi-access edge computing (MEC) in the Internet of Things (IoT) scenarios.
-- Machine learning (ML)-aided sparsity-aware channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions, where near-field communication characteristics are highlighted.
+- Model-driven machine learning (ML)-aided sparsity-aware channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions, where near-field communication characteristics are highlighted.
 
 Broadly speaking, my research expertise and interests include
 
-1. THz UM-MIMO Transmissions
-1. Near-Field Communications
-1. DRL-Driven Joint Communication and Computation Resource Management 
-1. Space-Air-Ground Integrated Networks
-1. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
+1. Artificial Intelligence (AI)-Native Sixth-Generation (6G) Wireless Systems
+1. Internet of Intelligent Things (IoT)
+2. Non-Terrestrial Communications (e.g., Drone-Aided Networks)
+1. (Scalable/Multi-Agent) DRL-Driven Joint Communication and Computation Resource Management for Multi-Access Edge Computing
+1. Compressive Sensing (CS)- and Machine Learning (ML)-Aided Channel Estimation for THz UM-MIMO Systems
+2. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
 1. Secure and Covert Communications
 
 > I have authored over *20 papers* in the **interdisciplinary** research direction of wireless communications and signal processing, machine learning, and quantum computing, in top-tier journals and prestigious conferences including IEEE TWC, IEEE TCOM, IEEE WCL, IEEE GLOBECOM, and IEEE ICC. I am also an active **reviewer** for these journals, conferences and beyond. I have authored **9 CN patents** in the fields of wireless communications and signal processing. I served as a **session chair** for IEEE ICC 2022: Selected Areas in Communications: Machine Learning for Communications Track - Networks.
