@@ -5,6 +5,13 @@ permalink: /Talks/
 author_profile: true
 ---
 
+1. ## Multi-Agent DRL for Joint Communication and Computation Resource Management in Multi-UAV Multi-User IoT
+- **Venue**: the Ninth Qilu Youth Forum, Shandong University
+- **Location**: Shandong, China
+- **Date**: 2024-10-24
+- [Official LETTER OF INVITATION](/files/pdf/Talks/LoI_SDU24Oct24.pdf)
+- [Slides (in Chinese Language)](/files/pdf/Talks/sildeSDU24Oct24.pdf)
+
 1. ## AI for Next-Generation Wireless Networks: Communication and Computation Resource Management, and Channel Estimation
 - **Venue**: Internet of Things Thrust, Information Hub, HKUST(GZ)
 - **Location**: Guangzhou, China
