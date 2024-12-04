@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <div class="box">
-  <iframe src="/files/pdf/CV_English24Oct25.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
+  <iframe src="/files/pdf/CV_English24Dec04.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
 </div>
 
 <div class="box">
-  <iframe src="/files/pdf/CV_Chinese24Oct25.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
+  <iframe src="/files/pdf/CV_Chinese24Dec04.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
 </div>
 
 
-You can download a PDF copy of [my CV in English](/files/pdf/CV_English24Oct25.pdf) or/and [my CV in Chinese](/files/pdf/CV_Chinese24Oct25.pdf).
+You can download a PDF copy of [my CV in English](/files/pdf/CV_English24Dec04.pdf) or/and [my CV in Chinese](/files/pdf/CV_Chinese24Dec04.pdf).
