@@ -5,6 +5,17 @@ permalink: /Talks/
 author_profile: true
 ---
 
+
+1. ## Energy-Efficient UAV-Aided Computation Offloading on THz Band: A MADRL Solution
+- **Venue**: IEEE Global Communications Conference
+- **Location**: Cape Town, South Africa
+- **Date**: 2024-12-09
+- [I served as the **chair** for the session SAC-AC-S01: Machine learning for UAVs](/files/pdf/Talks/Globecom2024SACAC.pdf)
+- [Conference Program Link](https://globecom2024.ieee-globecom.org/program/technical-program-day-1)
+- [Photo](/files/pdf/sessionChairingGC24.jpg)
+- [Slides](/files/pdf/Talks/slideGC24Dec09.pdf)
+
+
 1. ## Multi-Agent DRL for Joint Communication and Computation Resource Management in Multi-UAV Multi-User IoT
 - **Venue**: the Ninth Qilu Youth Forum, Shandong University
 - **Location**: Shandong, China
