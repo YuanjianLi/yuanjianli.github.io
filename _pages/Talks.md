@@ -5,6 +5,26 @@ permalink: /Talks/
 author_profile: true
 ---
 
+1. ## Introduction to My Research at SEU
+- **Venue**: 2024 International Young Scholars Forum, Southeast University
+- **Location**: Nanjing, China (Online Participation)
+- **Date**: 2024-12-26
+- [Official LETTER OF INVITATION](/files/pdf/Talks/LoI_SEU24Dec26.png)
+- [Slides (in the Chinese Language)](/files/pdf/Talks/slideSEU24Dec26.pdf)
+
+
+1. ## Introduction to My Research at UESTC
+- **Venue**: The 12th UESTC International Young Scholars Forum, University of Electronic Science and Technology of China
+- **Location**: Chengdu, China (In-Person Participation)
+- **Date**: 2024-12-23
+- [Official LETTER OF INVITATION](/files/pdf/Talks/LoI_UESTC24Dec23.pdf)
+- [Slides (in the Chinese Language)](/files/pdf/Talks/slideUESTC24Dec23.pdf)
+- [Photo_WelcomeReception](/files/ChengduUESTCwelcomeReception.jpeg)
+- [Photo_Talk](/files/ChengduUESTCtalk.jpeg)
+- [Photo_Pandas](/files/ChengduUESTCpandas.jpeg)
+- [Photo_RedPanda](/files/ChengduUESTCredPanda.jpeg)
+- [Photo_Me_with_Friend_Hilton](/files/ChengduUESTC_Hilton_w_Friend.jpeg)
+- [Photo_Me_with_Friend_Airport](/files/ChengduUESTCAirport.jpeg)
 
 1. ## Energy-Efficient UAV-Aided Computation Offloading on THz Band: A MADRL Solution
 - **Venue**: IEEE Global Communications Conference
@@ -17,11 +37,11 @@ author_profile: true
 
 
 1. ## Multi-Agent DRL for Joint Communication and Computation Resource Management in Multi-UAV Multi-User IoT
-- **Venue**: the Ninth Qilu Youth Forum, Shandong University
-- **Location**: Shandong, China
+- **Venue**: The Ninth Qilu Youth Forum, Shandong University
+- **Location**: Jinan, China (Online Participation)
 - **Date**: 2024-10-24
 - [Official LETTER OF INVITATION](/files/pdf/Talks/LoI_SDU24Oct24.pdf)
-- [Slides (in Chinese Language)](/files/pdf/Talks/sildeSDU24Oct24.pdf)
+- [Slides (in the Chinese Language)](/files/pdf/Talks/sildeSDU24Oct24.pdf)
 
 1. ## AI for Next-Generation Wireless Networks: Communication and Computation Resource Management, and Channel Estimation
 - **Venue**: Internet of Things Thrust, Information Hub, HKUST(GZ)
