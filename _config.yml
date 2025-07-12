@@ -83,13 +83,13 @@ analytics:
 author:
   name             : "Yuanjian Li (李元健)"
   avatar           : "LondonWestminsterBigBen1.JPG"
-  bio              : "Research Fellow @ Nanyang Technological University (NTU), Singapore; 
+  bio              : "Now an Assistant Professor @ Xi'an Jiaotong-Liverpool University, Suzhou, China; Was a Research Fellow @ Nanyang Technological University (NTU), Singapore; 
 PhD in Wireless Communications and Machine Learning from King's College London (KCL), the UK."
-  location         : "Singapore"
-  employer         : "Nanyang Technological University"
+  location         : "China"
+  employer         : "Xi'an Jiaotong-Liverpool University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=x0KLyqgAAAAJ"
-  email            : "yuanjian.li@ntu.edu.sg"
+  email            : "yuanjian.li@xjtlu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yuanjian-Li"
   uri              :
   bitbucket        :
@@ -119,6 +119,7 @@ PhD in Wireless Communications and Machine Learning from King's College London (
   wikipedia        :
   kaggle           : "https://www.kaggle.com/yuanjianli"
   kclresearch      : "https://kclpure.kcl.ac.uk/portal/en/persons/yuanjian-li(a80de11a-17b4-4bfb-bcc9-11eb774ad904).html"
+  XJTLUfacultyProfile      : "https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi"
 
 
 # Reading Files

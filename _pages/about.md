@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Accepting PhD students!** Please feel free to drop me an email to reach out at yuanjian.li@xjtlu.edu.cn; You can find more information about me by visiting https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi
+
 My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. My long-term goal is to build an **Ecosystem of AI and Wireless**.
 
 Two zoomed-in examples are
@@ -24,25 +26,14 @@ Broadly speaking, my research expertise and interests include
 2. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
 1. Secure and Covert Communications
 
-> I have authored over *20 papers* in the **interdisciplinary** research direction of wireless communications and signal processing, machine learning, and quantum computing, in top-tier journals and prestigious conferences including IEEE TWC, IEEE TCOM, IEEE WCL, IEEE GLOBECOM, and IEEE ICC. I am also an active **reviewer** for these journals, conferences and beyond. I have authored **9 CN patents** in the fields of wireless communications and signal processing. I served as a **session chair** for IEEE ICC 2022: Selected Areas in Communications: Machine Learning for Communications Track - Networks. Besides, I served as a member of the technical programme committee (**TPC**) for the International Conference on Internet of Things 2024 (ICIoT 2024). 
-
-
-> 李元健，现为新加坡南洋理工大学计算和数据科学学院博士后研究员、博士毕业于伦敦国王学院。他的研究方向为智能内生6G通信网络，具体包含：基于无人机的非地面通信、智慧物联网、多接入边缘计算、深度强化学习赋能的通感算一体资源管理、模型驱动机器学习辅助和压缩感知支持的超大规模天线阵列太赫兹信道估计、物理层安全和隐蔽通信。他在无线通信系统和人工智能、机器学习领域发表了20余篇论文，包括IEEE TWC、IEEE TCom、IEEE WCL、IEEE GLOBECOM、IEEE ICC等顶级期刊和旗舰会议。他已被授权了9项无线通信和信号处理领域的发明专利。他曾担任IEEE ICC 2022机器学习方向网络分会的分会主席和国际会议International Conference on Internet of Things 2024 (ICIoT 2024)的技术委员会成员。作为骨干成员，他参与过多个中国、新加坡和英国的关于下一代无线通信技术的科研项目，总资助额超5000万人民币。他卓越的学术履历使他能够设计、分析和优化智能内生的下一代无线网络，推动无线通信和人工智能的跨学科融合发展。他的研究成果可向智慧城市、智能农业、智慧医疗、无人驾驶、智能网联汽车和智慧物流等高新技术行业转化，助力低空经济的可持续高效率实施。
 
 <div class="box">
   <iframe src="/files/pdf/research/poster.pdf" frameborder="10" scrolling="no" width="100%" height="700" align="centre"> </iframe>
 </div>
 
-<div class="box">
-  <iframe src="/files/pdf/research/QualificationPI24Dec04.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
-</div>
 
 <div class="box">
-  <iframe src="/files/pdf/research/QualificationPIChinese24Dec04.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
-</div>
-
-<div class="box">
-  <iframe src="/files/pdf/research/PubList24Dec04.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
+  <iframe src="/files/pdf/research/PubList_YuanjianLi25Jul10.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
 </div>
 
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
