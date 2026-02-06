@@ -7,16 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Accepting PhD students!** Please feel free to drop me an email to reach out at yuanjian.li@xjtlu.edu.cn; You can find more information about me by visiting https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi
-
-My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. My long-term goal is to build an **Ecosystem of AI and Wireless**.
+My interdisciplinary research focuses on **AI for Next-Generation Wireless Systems**. 
 
 Two zoomed-in examples are
 
 - Deep Reinforcement Learning (DRL)-enabled joint computation and communication resource coordination for many-UAV many-user multi-access edge computing (MEC) in the Internet of Things (IoT) scenarios.
 - Model-driven machine learning (ML)-aided sparsity-aware channel estimation and efficient receiver design for Terahertz (THz) ultra-massive multiple-input multiple-output (UM-MIMO) transmissions, where near-field communication characteristics are highlighted.
 
-Broadly speaking, my research expertise and interests include
+<!--Broadly speaking, my research expertise and interests include
 
 1. Artificial Intelligence (AI)-Native Sixth-Generation (6G) Wireless Systems
 1. Internet of Intelligent Things (IoT)
@@ -24,20 +22,25 @@ Broadly speaking, my research expertise and interests include
 1. (Scalable/Multi-Agent) DRL-Driven Joint Communication and Computation Resource Management for Multi-Access Edge Computing
 1. Compressive Sensing (CS)- and Machine Learning (ML)-Aided Channel Estimation for THz UM-MIMO Systems
 2. Quantum Machine Learning (QML) for Next-Generation Wireless Systems
-1. Secure and Covert Communications
+1. Secure and Covert Communications-->
 
 
-<div class="box">
+<!--<div class="box">
   <iframe src="/files/pdf/research/poster.pdf" frameborder="10" scrolling="no" width="100%" height="700" align="centre"> </iframe>
 </div>
 
 
 <div class="box">
   <iframe src="/files/pdf/research/PubList_YuanjianLi25Jul10.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
-</div>
+</div>-->
 
 The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
 
+**Accepting PhD students!** Please feel free to drop me an email to reach out at yuanjian.li@xjtlu.edu.cn; You can find more information about me by visiting my [faculty page](https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi)
+
+* (as Primary PhD Supervisor) Postgraduate Research Scholarship (PGRS)-Funded PhD Project at XJTLU, FOSA2506034, [DRL-Enabled Resource Coordination for Covertness-Aware and Energy-Efficient UAV-Aided IoT](https://www.xjtlu.edu.cn/wp-content/uploads/2022/10/FOSA2506034-YuanjianLi-SAT.pdf), CNY 297, 000
+* (as Primary PhD Supervisor) XJTLU-XJTU-UoL Joint Doctoral Supervision Project, SFXJTU2506, [Quantum Deep Reinforcement Learning-Aided Resource Coordination for Energy-Efficient 6G Networks](https://www.xjtlu.edu.cn/wp-content/uploads/2025/10/SFXJTU2506-Project-Information_XJTLU-XJTU-UoL-Joint-Doctoral-Supervision-Programme.pdf) (XJTU and UoL are abbreviations for Xi'an Jiaotong University and the University of Liverpool, respectively)
+* (as Second PhD Supervisor) PGRS-Funded PhD Project at XJTLU, FOSLG250407, A[daptive Digital Twin Modelling and Optimization for V2X Networks in Large-Scale Traffic Scenarios](https://www.xjtlu.edu.cn/wp-content/uploads/2022/10/Dongyao_Jia_FOSLG250407.pdf), since 2025-07, CNY 297, 000
 <!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
 ![LondonStreet](/files/LondonLSE.jpg)
 ![LondonStreet](/files/LondonPhoneBooth.jpeg)
@@ -64,5 +67,6 @@ Apart from academia, I am an active *Kaggler*, with hands-on experience of proje
 
 
 <!--The best way to know me is to check [the latest CV file](\cv). -->
+
 
 
