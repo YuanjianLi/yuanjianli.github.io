@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="box">
-  <iframe src="/files/pdf/CV_English26Feb06.pdf" frameborder="10" scrolling="yes" width="100%" height="1600" align="left"> </iframe>
+  <iframe src="/files/pdf/CV_English26Mar24.pdf" frameborder="10" scrolling="yes" width="100%" height="1600" align="left"> </iframe>
 </div>
 
 <div class="box">
