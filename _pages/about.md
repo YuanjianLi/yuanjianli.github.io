@@ -34,12 +34,16 @@ Two zoomed-in examples are
   <iframe src="/files/pdf/research/PubList_YuanjianLi25Jul10.pdf" frameborder="10" scrolling="no" width="100%" height="2000" align="left"> </iframe>
 </div>-->
 
-The best way to know me is to check [the latest CV file](\cv). Besides, copies of my PhD and MEng theses are accessible in [PhD Thesis](\PhD_Thesis) and [MEng Thesis](\MEng_Thesis), respectively.
+The **best** way to know me is to check **[the latest CV file](\cv)**. 
 
-**Accepting PhD students!** Please feel free to drop me an email to reach out at yuanjian.li@xjtlu.edu.cn; You can find more information about me by visiting my [faculty page](https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi)
+--
 
-* (as Primary PhD Supervisor) Postgraduate Research Scholarship (PGRS)-Funded PhD Project at XJTLU, FOSA2506034, [DRL-Enabled Resource Coordination for Covertness-Aware and Energy-Efficient UAV-Aided IoT](https://www.xjtlu.edu.cn/wp-content/uploads/2022/10/FOSA2506034-YuanjianLi-SAT.pdf), CNY 297, 000
-* (as Primary PhD Supervisor) XJTLU-XJTU-UoL Joint Doctoral Supervision Project, SFXJTU2506, [Quantum Deep Reinforcement Learning-Aided Resource Coordination for Energy-Efficient 6G Networks](https://www.xjtlu.edu.cn/wp-content/uploads/2025/10/SFXJTU2506-Project-Information_XJTLU-XJTU-UoL-Joint-Doctoral-Supervision-Programme.pdf) (XJTU and UoL are abbreviations for Xi'an Jiaotong University and the University of Liverpool, respectively)
+**Accepting PhD students!** 
+
+Please feel free to drop me an email to reach out at yuanjian.li@xjtlu.edu.cn; You can find more information about me by visiting my [faculty page](https://scholar.xjtlu.edu.cn/en/persons/YuanjianLi)
+
+* (as **Primary** PhD Supervisor) Postgraduate Research Scholarship (PGRS)-Funded PhD Project at XJTLU, FOSA2506034, [DRL-Enabled Resource Coordination for Covertness-Aware and Energy-Efficient UAV-Aided IoT](https://www.xjtlu.edu.cn/wp-content/uploads/2022/10/FOSA2506034-YuanjianLi-SAT.pdf), CNY 297, 000
+* (as **Primary** PhD Supervisor) XJTLU-XJTU-UoL Joint Doctoral Supervision Project, SFXJTU2506, [Quantum Deep Reinforcement Learning-Aided Resource Coordination for Energy-Efficient 6G Networks](https://www.xjtlu.edu.cn/wp-content/uploads/2025/10/SFXJTU2506-Project-Information_XJTLU-XJTU-UoL-Joint-Doctoral-Supervision-Programme.pdf) (XJTU and UoL are abbreviations for Xi'an Jiaotong University and the University of Liverpool, respectively). **Update:** This position has been **filled** since September 2026. PhD student: Mr. Shen Liu, MSc from the University of Nottingham.
 * (as Second PhD Supervisor) PGRS-Funded PhD Project at XJTLU, FOSLG250407, A[daptive Digital Twin Modelling and Optimization for V2X Networks in Large-Scale Traffic Scenarios](https://www.xjtlu.edu.cn/wp-content/uploads/2022/10/Dongyao_Jia_FOSLG250407.pdf), since 2025-07, CNY 297, 000
 <!--![LondonStreet](/files/LondonOxfordRegentBond.jpg)
 ![LondonStreet](/files/LondonLSE.jpg)
