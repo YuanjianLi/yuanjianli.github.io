@@ -325,6 +325,40 @@ redirect_from:
   line-height: 1.6;
 }
 
+.visitor-map {
+  margin: 2.5rem 0 0;
+  padding: 1.3rem;
+  border: 1px solid var(--home-line);
+  border-radius: 0.85rem;
+  background: #f8fbfc;
+  text-align: center;
+}
+
+.visitor-map h2 {
+  margin: 0 0 0.45rem;
+  color: var(--home-ink);
+  font-size: 1.15rem;
+}
+
+.visitor-map p {
+  margin: 0 auto 0.9rem;
+  color: var(--home-muted);
+  font-size: 0.85rem;
+  line-height: 1.55;
+}
+
+.visitor-map p:last-child {
+  margin: 0.9rem auto 0;
+  font-size: 0.75rem;
+}
+
+.visitor-map__globe {
+  display: flex;
+  justify-content: center;
+  min-height: 280px;
+  overflow: hidden;
+}
+
 @media (max-width: 800px) {
   .impact-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .current-work { grid-template-columns: 1fr; }
@@ -557,4 +591,12 @@ redirect_from:
 </article>
 </section>
 <p class="academic-note">I welcome enquiries from prospective research students and collaborators working on AI-driven resource coordination for air-ground integrated networks. Please <a href="mailto:yuanjian.li@xjtlu.edu.cn">email me</a> with a brief description of your background and research interests.</p>
+<section class="visitor-map" aria-labelledby="visitor-map-heading">
+<h2 id="visitor-map-heading">Visitors around the world</h2>
+<p>Explore visits to this page by country. The globe and visit count update as new readers arrive.</p>
+<div class="visitor-map__globe">
+<script async src="https://www.stats4u.net/js/globe.js" data-s4uid="8509927618" data-size="280" data-lang="en" data-count="1"></script>
+</div>
+<p>Locations are approximate and inferred from network addresses. Counting starts when this map is published; it does not include earlier site visits. <a href="https://www.stats4u.net/en/about" target="_blank" rel="noopener noreferrer">About the visitor counter</a>.</p>
+</section>
 </div>
