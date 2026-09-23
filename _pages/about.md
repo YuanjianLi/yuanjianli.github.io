@@ -280,6 +280,40 @@ redirect_from:
   padding-left: 1.1rem;
 }
 
+.teaching-detail {
+  margin: 1rem 0 2rem;
+  border-top: 1px solid var(--home-line);
+}
+
+.teaching-block {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--home-line);
+}
+
+.teaching-block h3 {
+  margin: 0 0 0.5rem;
+  color: var(--home-ink);
+  font-size: 1.05rem;
+}
+
+.teaching-block p,
+.teaching-block li {
+  color: #405769;
+  font-size: 0.88rem;
+  line-height: 1.62;
+}
+
+.teaching-block p { margin: 0.45rem 0; }
+
+.teaching-block ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.teaching-block li { margin-bottom: 0.65rem; }
+.teaching-block li:last-child { margin-bottom: 0; }
+.teaching-block strong { color: var(--home-ink); }
+
 .academic-note {
   margin: 2.4rem 0 0;
   padding: 1.15rem 1.25rem;
@@ -307,18 +341,13 @@ redirect_from:
 
 <div class="academic-home">
 <section class="academic-hero">
-<p class="academic-kicker">Yuanjian Li · Assistant Professor · XJTLU</p>
 <h2>AI-Driven Resource Coordination for Air-Ground Integrated Networks</h2>
-<p class="academic-lead">
-I am an Assistant Professor, Principal Investigator, and PhD Supervisor in Communications and Networking at Xi'an Jiaotong-Liverpool University (XJTLU). My research develops AI methods to coordinate UAV mobility, wireless links, and edge computation for more energy-efficient and timely air-ground network services. I received my PhD in Telecommunications from King's College London in 2022.
-</p>
 <div class="academic-actions" aria-label="Profile links">
-<a class="academic-button" href="/files/pdf/CV_YuanjianLi_AcademicJobs_Supervision.pdf">Academic CV</a>
+<a class="academic-button" href="/cv/">Academic CV</a>
 <a class="academic-button academic-button--secondary" href="https://scholar.google.com/citations?hl=en&amp;user=x0KLyqgAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
 <a class="academic-button academic-button--secondary" href="https://orcid.org/0000-0001-8663-1644" target="_blank" rel="noopener">ORCID</a>
 <a class="academic-button academic-button--secondary" href="mailto:yuanjian.li@xjtlu.edu.cn">Email</a>
 </div>
-<p class="academic-updated">Publication record updated September 2026; manuscripts under review are excluded.</p>
 </section>
 <nav class="academic-shortcuts" aria-label="On this page">
 <a href="#research">Current research</a>
@@ -348,7 +377,6 @@ I am an Assistant Professor, Principal Investigator, and PhD Supervisor in Commu
 <h2 class="section-heading" id="research">Current research focus</h2>
 <p class="section-intro">My primary research programme is <strong>AI-Driven Resource Coordination for Air-Ground Integrated Networks</strong>. It brings together multi-UAV networking, mobile edge computing, and distributed learning to jointly optimize radio resources, computation offloading, and flight trajectories. The current projects target energy-efficient operation and timely IoT data collection.</p>
 <h2 class="section-heading" id="selected-publications">Featured papers in this research area</h2>
-<p class="section-intro">These papers illustrate the progression of my UAV and AI-driven resource-coordination work. My authorship role is shown for each paper.</p>
 <ul class="selected-list">
 <li><strong>Energy-Efficient UAV-Driven Multi-Access Edge Computing: A Distributed Many-Agent Perspective.</strong> <em>IEEE Transactions on Communications</em>, 2025. <span class="publication-role">First and corresponding author</span> <a href="https://doi.org/10.1109/TCOMM.2025.3552746">DOI</a></li>
 <li><strong>Radio Resource Management for Cellular-Connected UAV: A Learning Approach.</strong> <em>IEEE Transactions on Communications</em>, 2023. <span class="publication-role">First and corresponding author</span> <a href="https://doi.org/10.1109/TCOMM.2023.3262826">DOI</a></li>
@@ -357,7 +385,7 @@ I am an Assistant Professor, Principal Investigator, and PhD Supervisor in Commu
 </ul>
 <p class="section-more"><a href="#academic-record">See the complete publication list ↓</a></p>
 <h2 class="section-heading" id="academic-record">Complete publication list</h2>
-<p class="section-intro">All 33 published papers (18 journal articles and 15 conference papers), in reverse chronological order. First- and corresponding-author roles follow the bylines and asterisk notation in my <a href="/files/pdf/CV_YuanjianLi_AcademicJobs_Supervision.pdf">CV</a>. The full record also includes complementary and collaborative work in THz communications and wireless security; these are not separate current primary research programmes.</p>
+<p class="section-intro">All 33 published papers (18 journal articles and 15 conference papers), in reverse chronological order. The full publication record also includes complementary and collaborative work in THz communications and wireless security, which can be found in my <a href="/cv/">CV</a>.</p>
 <section class="academic-timeline" aria-label="Published papers by year">
 <article class="timeline-item">
 <h3 class="timeline-year">2026</h3>
@@ -365,7 +393,7 @@ I am an Assistant Professor, Principal Investigator, and PhD Supervisor in Commu
 <ol class="publication-list">
 <li><span class="publication-title">Wideband Hybrid-Field THz UM-MIMO Channel Estimation: A Dual-Attention-Aided Deep-Unfolded Bayesian Learning Approach.</span> <span class="publication-meta">IEEE Transactions on Communications.</span> <span class="publication-role">First and corresponding author</span> <a href="https://doi.org/10.1109/TCOMM.2026.3675428">DOI</a></li>
 <li><span class="publication-title">Near-Field User Localization and Beamforming in Covert Communication.</span> <span class="publication-meta">IEEE Transactions on Vehicular Technology.</span> <a href="https://doi.org/10.1109/TVT.2026.3651431">DOI</a></li>
-<li><span class="publication-title">AoI and Energy Co-Optimization for UAV-IoT Systems: A Temporal-Critical DRL Solution.</span> <span class="publication-meta">Information and Communication Technology Conference (ICTC).</span></li>
+<li><span class="publication-title">AoI and Energy Co-Optimization for UAV-IoT Systems: A Temporal-Critical DRL Solution.</span> <span class="publication-meta">Information and Communication Technology Conference (ICTC).</span> <a href="https://doi.org/10.1109/ICTC70246.2026.11650205">DOI</a></li>
 </ol>
 </div>
 </article>
@@ -480,8 +508,52 @@ I am an Assistant Professor, Principal Investigator, and PhD Supervisor in Commu
 </ul>
 </article>
 </section>
-<p class="section-intro">Additional research outputs include nine granted patents in wireless communications and signal processing. Earlier awards and training milestones are documented in the <a href="/files/pdf/CV_YuanjianLi_AcademicJobs_Supervision.pdf">full CV</a>.</p>
 <h2 class="section-heading" id="teaching-service">Teaching and supervision</h2>
-<p class="section-intro">At XJTLU I lead modules in digital signal processing and signals and systems, and serve as primary supervisor for PhD, MRes, and MSc research. I also supervise undergraduate research and final-year projects in UAV networks, edge computing, and learning-based resource coordination.</p>
+<p class="section-intro">Teaching at XJTLU in an English-medium environment, postgraduate and undergraduate supervision, and earlier graduate teaching-assistant work at King's College London.</p>
+<section class="teaching-detail" aria-label="Detailed teaching and supervision record">
+<article class="teaching-block">
+<h3>XJTLU teaching</h3>
+<ul>
+<li><strong>Module Leader, COS202 Continuous and Discrete Time Signals and Systems</strong> — 2026/27, Semester 1; more than 610 Year 3 undergraduate students.</li>
+<li><strong>Module Leader, CAN210 Digital Signal Processing</strong> — 2025/26, Semester 2; 159 Year 3 undergraduate students.</li>
+<li><strong>Co-Module Leader, CAN207 Continuous and Discrete Time Signals and Systems</strong> — 2025/26, Semester 1; more than 530 Year 3 undergraduate students.</li>
+<li><strong>Co-Module Leader, SAT005 Introduction to Emerging Technologies</strong> — 2024/25, Semester 2.</li>
+</ul>
+</article>
+<article class="teaching-block">
+<h3>Postgraduate research supervision — primary supervisor</h3>
+<ul>
+<li><strong>Shen Liu, PhD</strong> (Autumn 2026 entry; previously MSc, University of Nottingham): <em>Quantum Deep Reinforcement Learning-Aided Resource Coordination for Energy-Efficient 6G Networks</em> (SFXJTU2506).</li>
+<li><strong>Yuanyuan Chen, MRes</strong> (Autumn 2025 entry; previously BSc, Shanghai Institute of Technology): <em>Federated AI-Driven Information Freshness Optimization for 6G-Aided IoT Data Collection Systems</em>.</li>
+<li><strong>Yang Yu, MSc</strong> (Autumn 2025 entry; previously BSc, Shandong University of Science and Technology): <em>DRL-Aided Age-of-Information Minimization in Air-Ground Integrated Networks</em>.</li>
+<li><strong>Guangyi Zhang, MSc</strong> (Autumn 2025 entry; previously BSc, Shandong University of Science and Technology): <em>Reinforcement Learning-Aided Resource Coordination for Drone-Assisted Edge Computing in Industrial IoT</em>.</li>
+<li><strong>Zhouxiang Tao, MSc</strong> (Autumn 2026 entry; previously BSc, Guizhou University): <em>Agentic AI for Air-Ground Integrated Networks</em>.</li>
+<li><strong>Yawen Ji, MSc</strong> (Autumn 2026 entry; previously BSc, Nanjing University of Posts and Telecommunications): <em>Agentic AI for Air-Ground Integrated Networks</em>.</li>
+</ul>
+</article>
+<article class="teaching-block">
+<h3>Undergraduate research and final-year projects</h3>
+<ul>
+<li><strong>2026 XJTLU Summer Undergraduate Research Fellowship</strong> (SURF-2026-0240; CNY 6,000): <em>AI-Driven Multi-Dimensional Resource Scheduling for UAV-Enabled Multi-Access Edge Computing</em>. Students: Xiaotian Jia and Yutian Cui (Information and Computing Science); Weiyue Zhang and Shengran Ding (Telecommunications Engineering). <a href="https://github.com/YuanjianLi/UAV-MEC-MADRL" target="_blank" rel="noopener">Open-source code</a> · <a href="/files/pdf/SURF2026poster.pdf">Project poster</a>.</li>
+<li><strong>Final-year project supervision, 2025/26</strong> — seven students: Pengkun Ou, Yichun Xu, Shutong Yuan, Guanxu Bai, Ruineng Tang, Ancheng Li, and Yuxuan Chen. Project themes: deep-reinforcement-learning-enabled UAV communications, edge computing, IoT information freshness, and wireless security.</li>
+</ul>
+</article>
+<article class="teaching-block">
+<h3>Doctoral supervision and recruitment projects</h3>
+<ul>
+<li><strong>Primary PhD Supervisor</strong> — XJTLU Postgraduate Research Scholarship project FOSA2506034, <em>DRL-Enabled Resource Coordination for Covertness-Aware and Energy-Efficient UAV-Aided IoT</em> (since July 2025; CNY 297,000). Position available. </li>
+<li><strong>Primary PhD Supervisor</strong> — XJTLU–Xi'an Jiaotong University–University of Liverpool joint doctoral project SFXJTU2506, <em>Quantum Deep Reinforcement Learning-Aided Resource Coordination for Energy-Efficient 6G Networks</em> (since October 2025). Position has been filled. </li>
+<li><strong>Second PhD Supervisor</strong> — XJTLU Postgraduate Research Scholarship project FOSLG250407, <em>Adaptive Digital Twin Modelling and Optimization for V2X Networks in Large-Scale Traffic Scenarios</em> (since July 2025; CNY 297,000).</li>
+</ul>
+</article>
+<article class="teaching-block">
+<h3>Graduate teaching assistant, King's College London</h3>
+<ul>
+<li><strong>7CCEMDCO Digital Communications</strong> — 2022/23, Semester 1.</li>
+<li><strong>5CCE2MCT Mechatronics</strong> — 2021/22, Semester 2.</li>
+<li><strong>7CCSMMPC Mobile and Personal Communications</strong> — 2020/21, Semester 2.</li>
+</ul>
+</article>
+</section>
 <p class="academic-note">I welcome enquiries from prospective research students and collaborators working on AI-driven resource coordination for air-ground integrated networks. Please <a href="mailto:yuanjian.li@xjtlu.edu.cn">email me</a> with a brief description of your background and research interests.</p>
 </div>
