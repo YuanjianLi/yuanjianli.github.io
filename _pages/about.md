@@ -532,10 +532,11 @@ redirect_from:
 </ul>
 </article>
 <article class="teaching-block">
-<h3>Undergraduate research and final-year projects</h3>
+<h3>Undergraduate research and final-year projects — primary supervisor</h3>
 <ul>
 <li><strong>2026 XJTLU Summer Undergraduate Research Fellowship</strong> (SURF-2026-0240; CNY 6,000): <em>AI-Driven Multi-Dimensional Resource Scheduling for UAV-Enabled Multi-Access Edge Computing</em>. Students: Xiaotian Jia and Yutian Cui (Information and Computing Science); Weiyue Zhang and Shengran Ding (Telecommunications Engineering). <a href="https://github.com/YuanjianLi/UAV-MEC-MADRL" target="_blank" rel="noopener">Open-source code</a> · <a href="/files/pdf/SURF2026poster.pdf">Project poster</a>.</li>
-<li><strong>Final-year project supervision, 2025/26</strong> — seven students: Pengkun Ou, Yichun Xu, Shutong Yuan, Guanxu Bai, Ruineng Tang, Ancheng Li, and Yuxuan Chen. Project themes: deep-reinforcement-learning-enabled UAV communications, edge computing, IoT information freshness, and wireless security.</li>
+<li><strong>Final-year project (FYP) supervision at XJTLU, AY2025/26</strong> — seven students: Pengkun Ou, Yichun Xu, Shutong Yuan, Guanxu Bai, Ruineng Tang, Ancheng Li, and Yuxuan Chen. Project themes: deep-reinforcement-learning-enabled UAV communications, edge computing, IoT information freshness, and wireless security.</li>
+<li><strong>FYP supervision at Nanyang Technological University (NTU) Singapore, AY2024/25</strong> — one student: Tiew Yen Huei. Project title: DRL-Powered Resource Coordination for UAV-THz Computation Offloading. In this case, the primary supervisor is my postdoc mentor, Prof. A S Madhukumar. <a href="https://hdl.handle.net/10356/184238">FYP Dissertation Link</a></li>
 </ul>
 </article>
 <article class="teaching-block">
