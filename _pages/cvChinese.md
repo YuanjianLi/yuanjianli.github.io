@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <div class="box">
-  <iframe src="/files/pdf/CV_Chinese26Sep23.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
+  <iframe src="/files/pdf/CV_Chinese26Oct14.pdf" frameborder="10" scrolling="no" width="100%" height="1200" align="left"> </iframe>
 </div>
 
 <div class="box">
-  <iframe src="/files/pdf/CV_English26Sep23.pdf" frameborder="10" scrolling="yes" width="100%" height="1600" align="left"> </iframe>
+  <iframe src="/files/pdf/CV_EnglishOct14.pdf" frameborder="10" scrolling="yes" width="100%" height="1600" align="left"> </iframe>
 </div>
 
 
